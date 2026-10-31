@@ -83,11 +83,20 @@ A web application designed to help job seekers manage and track their job applic
 - Worked with HTML, CSS, JavaScript and React.
 - Practised form validation, debugging and Git version control.
 
-
+---
 
 ## 📊 GitHub Contributions
 
 I use GitHub to practise coding, build projects, explore new technologies and share my development journey.
 
+---
+
+## 🤝 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/pedduri-shalini-39338b2bb/
+- **GitHub:**   https://github.com/PedduriShalini
+- **Email:**    peddurishalini2005@gmail.com
+
+---
 
 ### ✨ "Learning continuously, building consistently, and growing through every project."</markdown>
