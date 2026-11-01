@@ -34,6 +34,7 @@ I enjoy developing user-friendly applications, learning new technologies, and tu
 - Java
 - Java Servlets
 - JSP
+- Spring Boot
 
 **Database**
 - MongoDB
